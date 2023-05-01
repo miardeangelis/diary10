@@ -6,8 +6,6 @@
 
 Edison's Home in Menlo Park 
 
-> come back to graphic 
-
 ### Page 1
 
 .ve-media https://edisondigital.rutgers.edu/iiif/MA039 left
